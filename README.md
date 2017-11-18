@@ -111,6 +111,8 @@ Some of these games will probably disappear if Flash gets killed:
 - [SuperFighters](https://mythologicinteractive.com/Superfighters)
 - [Alien Hominid](http://www.newgrounds.com/portal/view/59593)
 - [Abobo's Big Adventure](http://abobosbigadventure.com/)
+- [Plazma Burst: Forward to the Past](https://www.newgrounds.com/portal/view/500590)
+- [Plazma Burst 2](http://plazmaburst2.com/?s=2&a=)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
